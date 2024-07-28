@@ -4,17 +4,17 @@
 
 @font-face {
     font-family: tbcx;
-    src: url("/fonts/TBCXRegular.woff2") format("woff2");
+    src: url("/TBCXRegular.woff2") format("woff2");
     font-weight: 400;
   }
   @font-face {
     font-family: tbcx;
-    src: url("/fonts/TBCXMedium.woff2") format("woff2");
+    src: url("/TBCXMedium.woff2") format("woff2");
     font-weight: 500;
   }
   @font-face {
     font-family: tbcx;
-    src: url("/fonts/TBCXBold.woff2") format("woff2");
+    src: url("/TBCXBold.woff2") format("woff2");
     font-weight: 700;
   }
 
