@@ -21,9 +21,8 @@
 ## File Structure
 
 ```plaintext
-TBCConcept/
-├── fonts/
-│   └── (custom fonts)
+TBC-concept/
+└── (custom fonts)
 ├── index.html
 ├── index.js
 └── styles.css
